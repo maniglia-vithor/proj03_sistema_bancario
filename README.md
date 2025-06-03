@@ -18,4 +18,4 @@ Este projeto implementa um **sistema bancário** simples em Python, que permite 
 1. Clone este repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/usuario/proj03_sistema_bancario.git
+   git clone https://github.com/maniglia-vithor/proj03_sistema_bancario.git
